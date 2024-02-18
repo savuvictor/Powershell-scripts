@@ -1,1 +1,1 @@
-Various powershell for various tasks
+Various powershell scripts for various tasks
